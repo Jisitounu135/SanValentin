@@ -1,3 +1,4 @@
+
 const urlSearchParams = new URLSearchParams(window.location.search)
 
 const messageCustom = urlSearchParams.get('message')
